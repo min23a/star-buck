@@ -12,25 +12,21 @@ function HomeScreen() {
       <Fade>
         <div className="homeScreen__top">
           <h4>
-            We’re working hard to put the health and well-being of our partners
-            and customers first in all that we do. <Link>Learn more</Link>
+            We are working on app for Nadia’s Soul Food that replicates much of the functionality of the Starbucks app. <Link>Learn more</Link>
           </h4>
         </div>
       </Fade>
       <Fade>
         <div className="homeScreen__bottom">
           <div className="homeScreen__bottomLeft">
-            <h4>Investing in our communities</h4>
+            <h4>Nadia's Soul Food</h4>
             <p>
-              The Starbucks Foundation awarded grants to over 400 nonprofits
-              serving communities of color. Recipients were nominated by
-              Starbucks partners (employees).
-            </p>
+              2 W 125th Street, New York, NY 10027            </p>
             <button>Learn more</button>
           </div>
           <div className="homeScreen__bottomRight">
             <img
-              src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-68026.jpg"
+              src="https://startuptown.files.wordpress.com/2021/07/20210717_133620.jpg"
               alt=""
             />
           </div>
